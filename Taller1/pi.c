@@ -29,7 +29,7 @@ Numeros de pasos
 -1
 
 */
-static long num_steps = 1;
+static long num_steps = ;1
 double step;
 int main ()
 {
