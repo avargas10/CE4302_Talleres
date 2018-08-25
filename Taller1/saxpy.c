@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <omp.h>
 #include <stdlib.h>
-#define SIZE 100000000
+#define SIZE 2000
 #define MAX 100
 #define MIN -50
 #define threads 8
